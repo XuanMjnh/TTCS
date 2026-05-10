@@ -1,0 +1,352 @@
+{
+  "createdAt": "2026-05-08",
+  "numClasses": 52,
+  "numImages": 35482,
+  "numIssues": 23,
+  "splitSummary": {
+    "train": {
+      "numClasses": 52,
+      "numImages": 24815,
+      "minPerClass": 312,
+      "maxPerClass": 500
+    },
+    "val": {
+      "numClasses": 52,
+      "numImages": 5322,
+      "minPerClass": 41,
+      "maxPerClass": 206
+    },
+    "test": {
+      "numClasses": 52,
+      "numImages": 5345,
+      "minPerClass": 42,
+      "maxPerClass": 207
+    },
+    "external_test": {
+      "numClasses": 0,
+      "numImages": 0,
+      "minPerClass": 0,
+      "maxPerClass": 0
+    }
+  },
+  "classCountsBySplit": {
+    "train": {
+      "apple__black_spot": 469,
+      "apple__brown_spot": 500,
+      "apple__healthy": 500,
+      "apricot__healthy": 500,
+      "apricot__leaf_blight": 312,
+      "apricot__shot_hole": 500,
+      "bean__fungal_leaf_disease": 500,
+      "bean__healthy": 500,
+      "bean__rust": 500,
+      "bean__shot_hole": 392,
+      "cherry__brown_spot": 500,
+      "cherry__healthy": 500,
+      "cherry__leaf_scorch": 500,
+      "cherry__purple_leaf_spot": 500,
+      "cherry__shot_hole": 440,
+      "fig__brown_spot": 428,
+      "fig__healthy": 500,
+      "fig__leaf_blight": 500,
+      "fig__rust": 500,
+      "grape__anthracnose": 500,
+      "grape__brown_spot": 500,
+      "grape__downy_mildew": 500,
+      "grape__healthy": 500,
+      "grape__mites": 500,
+      "grape__powdery_mildew": 500,
+      "grape__shot_hole": 500,
+      "loquat__healthy": 500,
+      "loquat__leaf_spot": 500,
+      "maize__fungal_leaf": 332,
+      "maize__gray_leaf_spot": 500,
+      "maize__healthy": 500,
+      "maize__holcus_leaf_spot": 432,
+      "pear__black_spot": 500,
+      "pear__fire_blight": 380,
+      "pear__healthy": 500,
+      "persimmon__brown_spot": 500,
+      "tomato__bacterial_spot": 500,
+      "tomato__early_blight": 500,
+      "tomato__fusarium_wilt": 318,
+      "tomato__healthy": 500,
+      "tomato__late_blight": 500,
+      "tomato__leaf_curl": 500,
+      "tomato__leaf_miner": 500,
+      "tomato__leaf_mold": 500,
+      "tomato__septoria_leaf_spot": 500,
+      "tomato__spider_mites": 500,
+      "tomato__verticillium_wilt": 420,
+      "walnut__anthracnose": 500,
+      "walnut__blotch": 500,
+      "walnut__healthy": 500,
+      "walnut__leaf_gall_mite": 392,
+      "walnut__shot_hole": 500
+    },
+    "val": {
+      "apple__black_spot": 51,
+      "apple__brown_spot": 132,
+      "apple__healthy": 103,
+      "apricot__healthy": 81,
+      "apricot__leaf_blight": 45,
+      "apricot__shot_hole": 104,
+      "bean__fungal_leaf_disease": 97,
+      "bean__healthy": 111,
+      "bean__rust": 62,
+      "bean__shot_hole": 49,
+      "cherry__brown_spot": 121,
+      "cherry__healthy": 62,
+      "cherry__leaf_scorch": 141,
+      "cherry__purple_leaf_spot": 120,
+      "cherry__shot_hole": 55,
+      "fig__brown_spot": 53,
+      "fig__healthy": 75,
+      "fig__leaf_blight": 95,
+      "fig__rust": 62,
+      "grape__anthracnose": 124,
+      "grape__brown_spot": 80,
+      "grape__downy_mildew": 77,
+      "grape__healthy": 186,
+      "grape__mites": 62,
+      "grape__powdery_mildew": 150,
+      "grape__shot_hole": 106,
+      "loquat__healthy": 64,
+      "loquat__leaf_spot": 99,
+      "maize__fungal_leaf": 41,
+      "maize__gray_leaf_spot": 66,
+      "maize__healthy": 71,
+      "maize__holcus_leaf_spot": 54,
+      "pear__black_spot": 113,
+      "pear__fire_blight": 47,
+      "pear__healthy": 95,
+      "persimmon__brown_spot": 83,
+      "tomato__bacterial_spot": 200,
+      "tomato__early_blight": 200,
+      "tomato__fusarium_wilt": 44,
+      "tomato__healthy": 200,
+      "tomato__late_blight": 147,
+      "tomato__leaf_curl": 206,
+      "tomato__leaf_miner": 200,
+      "tomato__leaf_mold": 200,
+      "tomato__septoria_leaf_spot": 170,
+      "tomato__spider_mites": 63,
+      "tomato__verticillium_wilt": 52,
+      "walnut__anthracnose": 81,
+      "walnut__blotch": 169,
+      "walnut__healthy": 89,
+      "walnut__leaf_gall_mite": 49,
+      "walnut__shot_hole": 115
+    },
+    "test": {
+      "apple__black_spot": 51,
+      "apple__brown_spot": 133,
+      "apple__healthy": 103,
+      "apricot__healthy": 82,
+      "apricot__leaf_blight": 45,
+      "apricot__shot_hole": 104,
+      "bean__fungal_leaf_disease": 97,
+      "bean__healthy": 112,
+      "bean__rust": 62,
+      "bean__shot_hole": 49,
+      "cherry__brown_spot": 121,
+      "cherry__healthy": 63,
+      "cherry__leaf_scorch": 141,
+      "cherry__purple_leaf_spot": 120,
+      "cherry__shot_hole": 55,
+      "fig__brown_spot": 54,
+      "fig__healthy": 75,
+      "fig__leaf_blight": 96,
+      "fig__rust": 63,
+      "grape__anthracnose": 125,
+      "grape__brown_spot": 80,
+      "grape__downy_mildew": 78,
+      "grape__healthy": 186,
+      "grape__mites": 63,
+      "grape__powdery_mildew": 151,
+      "grape__shot_hole": 107,
+      "loquat__healthy": 65,
+      "loquat__leaf_spot": 99,
+      "maize__fungal_leaf": 42,
+      "maize__gray_leaf_spot": 66,
+      "maize__healthy": 71,
+      "maize__holcus_leaf_spot": 54,
+      "pear__black_spot": 113,
+      "pear__fire_blight": 48,
+      "pear__healthy": 96,
+      "persimmon__brown_spot": 83,
+      "tomato__bacterial_spot": 200,
+      "tomato__early_blight": 200,
+      "tomato__fusarium_wilt": 45,
+      "tomato__healthy": 200,
+      "tomato__late_blight": 147,
+      "tomato__leaf_curl": 207,
+      "tomato__leaf_miner": 200,
+      "tomato__leaf_mold": 200,
+      "tomato__septoria_leaf_spot": 171,
+      "tomato__spider_mites": 64,
+      "tomato__verticillium_wilt": 53,
+      "walnut__anthracnose": 81,
+      "walnut__blotch": 170,
+      "walnut__healthy": 89,
+      "walnut__leaf_gall_mite": 49,
+      "walnut__shot_hole": 116
+    },
+    "external_test": {}
+  },
+  "lowCountClasses": {
+    "apple__black_spot": 469,
+    "apricot__leaf_blight": 312,
+    "bean__shot_hole": 392,
+    "cherry__shot_hole": 440,
+    "fig__brown_spot": 428,
+    "maize__fungal_leaf": 332,
+    "maize__holcus_leaf_spot": 432,
+    "pear__fire_blight": 380,
+    "tomato__fusarium_wilt": 318,
+    "tomato__verticillium_wilt": 420,
+    "walnut__leaf_gall_mite": 392
+  },
+  "issues": [
+    {
+      "split": "train",
+      "label": "apple__black_spot",
+      "count": 469,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "train",
+      "label": "apricot__leaf_blight",
+      "count": 312,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "train",
+      "label": "bean__shot_hole",
+      "count": 392,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "train",
+      "label": "cherry__shot_hole",
+      "count": 440,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "train",
+      "label": "fig__brown_spot",
+      "count": 428,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "train",
+      "label": "maize__fungal_leaf",
+      "count": 332,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "train",
+      "label": "maize__holcus_leaf_spot",
+      "count": 432,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "train",
+      "label": "pear__fire_blight",
+      "count": 380,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "train",
+      "label": "tomato__fusarium_wilt",
+      "count": 318,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "train",
+      "label": "tomato__verticillium_wilt",
+      "count": 420,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "train",
+      "label": "walnut__leaf_gall_mite",
+      "count": 392,
+      "reason": "train_count_below_500"
+    },
+    {
+      "split": "val",
+      "label": "apricot__leaf_blight",
+      "count": 45,
+      "reason": "val_count_below_50"
+    },
+    {
+      "split": "val",
+      "label": "bean__shot_hole",
+      "count": 49,
+      "reason": "val_count_below_50"
+    },
+    {
+      "split": "val",
+      "label": "maize__fungal_leaf",
+      "count": 41,
+      "reason": "val_count_below_50"
+    },
+    {
+      "split": "val",
+      "label": "pear__fire_blight",
+      "count": 47,
+      "reason": "val_count_below_50"
+    },
+    {
+      "split": "val",
+      "label": "tomato__fusarium_wilt",
+      "count": 44,
+      "reason": "val_count_below_50"
+    },
+    {
+      "split": "val",
+      "label": "walnut__leaf_gall_mite",
+      "count": 49,
+      "reason": "val_count_below_50"
+    },
+    {
+      "split": "test",
+      "label": "apricot__leaf_blight",
+      "count": 45,
+      "reason": "test_count_below_50"
+    },
+    {
+      "split": "test",
+      "label": "bean__shot_hole",
+      "count": 49,
+      "reason": "test_count_below_50"
+    },
+    {
+      "split": "test",
+      "label": "maize__fungal_leaf",
+      "count": 42,
+      "reason": "test_count_below_50"
+    },
+    {
+      "split": "test",
+      "label": "pear__fire_blight",
+      "count": 48,
+      "reason": "test_count_below_50"
+    },
+    {
+      "split": "test",
+      "label": "tomato__fusarium_wilt",
+      "count": 45,
+      "reason": "test_count_below_50"
+    },
+    {
+      "split": "test",
+      "label": "walnut__leaf_gall_mite",
+      "count": 49,
+      "reason": "test_count_below_50"
+    }
+  ],
+  "labelFormat": "ASCII lowercase snake_case crop__condition; Normal labels normalized to healthy.",
+  "sourcePriority": "VietGAP/IPM knowledge sources are used for advice text; dataset image provenance should still be documented separately by the project owner."
+}

@@ -1,0 +1,8 @@
+{
+  "numSamples": 300,
+  "top1MatchRate": 1.0,
+  "meanAbsoluteDifference": 3.758456212921146e-09,
+  "maxAbsoluteDifference": 1.4081597328186035e-05,
+  "numTop1Mismatch": 0,
+  "top1Mismatches": []
+}

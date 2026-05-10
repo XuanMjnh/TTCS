@@ -1,0 +1,590 @@
+[
+  {
+    "cropKey": "apple",
+    "cropName": "Táo",
+    "summary": "Táo là cây ăn quả lâu năm, cần tán thông thoáng, ánh sáng tốt và dinh dưỡng cân đối để nuôi lá, hoa và quả ổn định.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Cây có chu kỳ ra đọt, ra hoa và nuôi quả rõ; sức khỏe bộ lá quyết định khả năng tích lũy dinh dưỡng.",
+          "Tán quá rậm làm giảm ánh sáng trong tán và tăng ẩm độ."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Cần nơi nhiều sáng, thoát nước tốt và hạn chế gió mạnh làm rụng hoa/quả non.",
+          "Giữ ẩm ổn định trong giai đoạn ra đọt, ra hoa, nuôi quả."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Tỉa bỏ cành sâu trong tán, cành khô, cành vượt và cành giao nhau.",
+          "Theo dõi lá non sau mỗi đợt ra đọt vì đây là giai đoạn dễ biểu hiện thiếu dinh dưỡng hoặc sâu bệnh."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "apricot",
+    "cropName": "Mơ",
+    "summary": "Mơ là cây ăn quả nhạy với úng và cần tán thoáng để hạn chế bệnh lá.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Cây ra hoa và nuôi quả trên cành đã phân hóa tốt.",
+          "Lá mỏng và non dễ bị stress khi thiếu nước, nắng gắt hoặc mất cân đối dinh dưỡng."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Ưu tiên đất tơi, thoát nước, có hữu cơ hoai mục.",
+          "Cần ánh sáng trực tiếp để tán lá quang hợp tốt."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Tỉa cành khô, cành bệnh, cành khuất trong tán; giữ khung tán cân đối.",
+          "Bón phục hồi sau thu hoạch, sau đó điều chỉnh dinh dưỡng cho giai đoạn ra đọt."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "bean",
+    "cropName": "Đậu",
+    "summary": "Đậu là cây họ đậu ngắn ngày, sinh trưởng nhanh, cần đất tơi thoát nước và dinh dưỡng vừa phải.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Cây có khả năng cộng sinh cố định đạm, vì vậy không nên lạm dụng phân đạm.",
+          "Thời kỳ ra hoa, đậu quả rất nhạy với thiếu nước."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Chọn đất tơi, thoát nước nhanh, luống cao trong mùa mưa.",
+          "Giữ ẩm đều khi cây con, ra hoa và nuôi quả."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Bón lót hữu cơ hoai mục và lân/kali hợp lý; đạm chỉ bổ sung nhẹ khi cây yếu.",
+          "Thu gom tàn dư sau vụ và luân canh để giảm nguồn bệnh tồn lưu."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "cherry",
+    "cropName": "Anh đào",
+    "summary": "Anh đào là cây ăn quả lâu năm cần mùa sinh trưởng thông thoáng, đất thoát nước và quản lý tán tốt.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Cây nhạy với úng và tổn thương rễ.",
+          "Tán cần ánh sáng để nuôi mầm hoa và quả."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Trồng nơi thoát nước tốt, nhiều ánh sáng, tránh đọng nước quanh gốc.",
+          "Duy trì ẩm ổn định nhưng không tưới quá mức."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Tỉa cành để tạo khung tán vững, loại bỏ cành khô và cành đan chéo.",
+          "Vệ sinh tàn dư lá/quả rụng để giảm nguồn sâu bệnh."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "fig",
+    "cropName": "Sung",
+    "summary": "Sung là cây ăn quả có sức sinh trưởng mạnh, bộ lá lớn và cần quản lý tán, nước, dinh dưỡng để cây không quá rậm.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Cây ra đọt mạnh; nếu dư đạm và nước, tán dễ rậm.",
+          "Lá lớn nên dễ mất nước khi nắng gắt hoặc gió khô."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Ưa sáng, cần khoảng cách trồng đủ để tán thông thoáng.",
+          "Tưới đều trong giai đoạn ra đọt và nuôi quả."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Tỉa cành bên trong tán, cành sâu bệnh và cành sát đất.",
+          "Cân đối đạm với kali/canxi/magie theo tình trạng cây."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "grape",
+    "cropName": "Nho",
+    "summary": "Nho là cây leo cần giàn, tỉa cành, ánh sáng và thông thoáng rất tốt.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Sinh trưởng theo dây leo; phân bố lá trên giàn quyết định quang hợp và độ thoáng.",
+          "Cây cần cân đối giữa sinh trưởng thân lá và nuôi chùm quả."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Cần nắng đầy đủ, giàn chắc, thoát nước tốt và hạn chế ẩm độ kéo dài trong tán.",
+          "Tưới theo nhu cầu từng giai đoạn; tránh úng rễ và tránh thiếu nước khi nuôi quả."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Tỉa cành, buộc dây và phân bố tán đều trên giàn.",
+          "Tỉa lá quanh chùm ở mức vừa phải để thông thoáng nhưng không làm cháy nắng quả."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "loquat",
+    "cropName": "Sơn trà",
+    "summary": "Sơn trà là cây ăn quả lâu năm, cần đất thoát nước, tán vừa phải và dinh dưỡng ổn định.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Bộ lá dày, phiến lớn; lá già dễ tích lũy triệu chứng stress hoặc đốm lá.",
+          "Cây cần phục hồi sau thu hoạch để nuôi đọt và mầm hoa."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Ưa đất tơi, thoát nước, có hữu cơ; hạn chế úng quanh vùng rễ.",
+          "Cần nắng tốt nhưng nên giữ ẩm gốc ổn định trong thời kỳ khô."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Tỉa cành khô, cành sâu bệnh, cành trong tán.",
+          "Bón phục hồi sau thu hoạch, sau đó cân đối dinh dưỡng cho ra đọt và ra hoa."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "maize",
+    "cropName": "Ngô",
+    "summary": "Ngô là cây lương thực ngắn ngày, nhu cầu dinh dưỡng cao, đặc biệt ở giai đoạn sinh trưởng thân lá và hình thành bắp.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Cây sinh trưởng nhanh, bộ lá lớn; thiếu dinh dưỡng hoặc thiếu nước sớm làm giảm kích thước bắp.",
+          "Giai đoạn xoắn nõn, trỗ cờ, phun râu rất nhạy với khô hạn."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Cần đất tơi, thoát nước, đủ ẩm; lên luống/rãnh thoát nước trong vùng mưa nhiều.",
+          "Giữ ẩm tốt từ cây con đến sau phun râu."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Bón phân chia lần, chú ý đạm và kali; không bón dồn một lần.",
+          "Làm cỏ và vun gốc đúng thời điểm để giảm cạnh tranh và tăng chống đổ."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "pear",
+    "cropName": "Lê",
+    "summary": "Lê là cây ăn quả lâu năm cần tán thông thoáng, quản lý nước ổn định và dinh dưỡng cân đối.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Cành mang quả cần đủ sáng; tán rậm làm giảm chất lượng quả.",
+          "Bộ lá khỏe sau thu hoạch giúp cây tích lũy cho vụ sau."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Trồng nơi đất thoát nước, nhiều ánh sáng và có khả năng quản lý tưới.",
+          "Giữ ẩm vừa phải khi ra hoa, đậu quả và nuôi quả."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Tỉa tạo tán, loại cành sâu bệnh, cành giao nhau, cành khuất sáng.",
+          "Bón phục hồi sau thu hoạch và cân đối dinh dưỡng khi nuôi quả."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "persimmon",
+    "cropName": "Hồng",
+    "summary": "Hồng là cây ăn quả lâu năm, cần ánh sáng tốt, đất thoát nước và cân đối sinh trưởng.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Cây có xu hướng rụng quả sinh lý nếu stress nước, thiếu dinh dưỡng hoặc mang quả quá sức.",
+          "Tán cần ánh sáng để lá quang hợp tốt và quả phát triển đồng đều."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Ưa đất thoát nước, tầng canh tác tốt; tránh đọng nước quanh gốc.",
+          "Giữ ẩm ổn định trong thời kỳ ra đọt và nuôi quả."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Tỉa cành sau thu hoạch, giữ tán cân đối và loại bỏ cành yếu/cành sâu bệnh.",
+          "Bón phân phục hồi để nuôi lộc và tích lũy cho vụ sau."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "tomato",
+    "cropName": "Cà chua",
+    "summary": "Cà chua là cây rau ăn quả nhạy với ẩm độ cao, úng rễ, thiếu canxi và bệnh lá.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Cây sinh trưởng nhanh, vừa nuôi lá vừa ra hoa/quả nên dễ mất cân đối.",
+          "Lá ướt lâu làm tăng nguy cơ đốm lá, mốc lá và cháy lá."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Trồng trên đất tơi, thoát nước, luân canh tránh trồng liên tục họ cà.",
+          "Tưới gốc hoặc nhỏ giọt, giữ ẩm đều; tránh tưới phun lên lá vào chiều tối."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Tỉa lá già sát đất, nhánh vô hiệu và lá bệnh; buộc cây để hạn chế tiếp xúc đất.",
+          "Bón phân chia lần, chú ý kali, canxi và trung vi lượng trong giai đoạn ra hoa, nuôi quả."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  },
+  {
+    "cropKey": "walnut",
+    "cropName": "Óc chó",
+    "summary": "Óc chó là cây thân gỗ lâu năm, cần không gian tán lớn, đất sâu thoát nước và quản lý dinh dưỡng dài hạn.",
+    "sections": [
+      {
+        "title": "Đặc tính sinh trưởng",
+        "items": [
+          "Cây có tán lớn và bộ rễ phát triển; cần khoảng cách trồng đủ để giảm cạnh tranh ánh sáng.",
+          "Lá phản ánh sức khỏe cây; vàng lá, cháy mép hoặc đốm lá cần được ghi nhận."
+        ]
+      },
+      {
+        "title": "Đất, nước và ánh sáng",
+        "items": [
+          "Cần đất sâu, thoát nước, không úng; vùng rễ phải được bảo vệ khỏi nén chặt.",
+          "Tưới bổ sung trong thời kỳ khô, đặc biệt khi cây còn nhỏ hoặc đang nuôi quả."
+        ]
+      },
+      {
+        "title": "Dinh dưỡng và nuôi cây",
+        "items": [
+          "Ưu tiên bón phân dựa trên giai đoạn sinh trưởng, sức cây và điều kiện đất; tránh bón dư đạm làm tán rậm, mô non yếu và dễ phát sinh sâu bệnh.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh phù hợp để cải thiện cấu trúc đất, giữ ẩm và tăng hoạt động sinh học đất.",
+          "Theo dõi màu lá, tốc độ ra đọt, kích thước lá và biểu hiện cháy mép/vàng lá để điều chỉnh dinh dưỡng thận trọng."
+        ]
+      },
+      {
+        "title": "Chăm sóc chính",
+        "items": [
+          "Tỉa tạo khung tán từ sớm, loại cành khô, cành sâu bệnh và cành giao nhau.",
+          "Bón phân theo tuổi cây, tình trạng lá và năng suất; tránh bón mạnh một lần quanh gốc."
+        ]
+      },
+      {
+        "title": "Theo VietGAP nên ghi chép",
+        "items": [
+          "Mã lô/vườn/ruộng, nguồn giống, ngày trồng, nguồn nước, phân bón, vật tư đầu vào và người thực hiện.",
+          "Lần tưới, bón phân, tỉa cành/làm giàn/làm cỏ, tình trạng sinh trưởng và hiện tượng bất thường trên lá, thân, hoa, quả.",
+          "Khi có dùng thuốc BVTV: ghi tên thương phẩm, hoạt chất, liều lượng, lý do dùng, thời gian cách ly và tuân thủ nguyên tắc 4 đúng."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trong trot - https://icicert.vn/document/tcvn-11892-12017-ve-thuc-hanh-nong-nghiep-tot-vietgap-phan-1-trong-trot/",
+      "Cuc Trong trot va Bao ve thuc vat - IPM - https://www.ppd.gov.vn/quan-ly-dich-hai-tong-hop-ipm.html",
+      "FAO Integrated Plant Nutrient Management - https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-plant-nutrient-management/ipnm-what/en/"
+    ]
+  }
+]

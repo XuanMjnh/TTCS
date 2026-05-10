@@ -1,0 +1,110 @@
+[
+  {
+    "id": "vietgap_records",
+    "title": "Ghi chép và truy xuất theo VietGAP",
+    "summary": "Ghi chép giúp kiểm soát an toàn thực phẩm, truy xuất nguồn gốc và đánh giá hiệu quả canh tác.",
+    "sections": [
+      {
+        "title": "Cần ghi những gì",
+        "items": [
+          "Mã lô/vườn/ruộng, diện tích, giống, ngày gieo trồng, nguồn giống và người phụ trách.",
+          "Nguồn nước, phân bón, thuốc BVTV, chế phẩm sinh học và các vật tư khác.",
+          "Ngày kiểm tra sâu bệnh, triệu chứng, mật độ gây hại, biện pháp đã dùng và kết quả sau xử lý."
+        ]
+      },
+      {
+        "title": "Lỗi thường gặp",
+        "items": [
+          "Ghi tên thuốc nhưng không ghi hoạt chất, liều lượng và thời gian cách ly.",
+          "Gộp nhiều lô có lịch xử lý khác nhau vào một lô thu hoạch."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trồng trọt",
+      "Cục Trồng trọt và Bảo vệ thực vật - IPM",
+      "FAO - Integrated Pest Management principles"
+    ]
+  },
+  {
+    "id": "ipm",
+    "title": "Quản lý dịch hại tổng hợp IPM",
+    "summary": "IPM ưu tiên phòng ngừa, theo dõi đồng ruộng, bảo vệ thiên địch và chỉ dùng thuốc khi thật cần thiết.",
+    "sections": [
+      {
+        "title": "Nguyên tắc chính",
+        "items": [
+          "Trồng cây khỏe: giống sạch bệnh, mật độ hợp lý, đất và nước phù hợp, dinh dưỡng cân đối.",
+          "Thăm đồng định kỳ để phát hiện sớm sâu bệnh, cỏ dại, thiếu dinh dưỡng và stress thời tiết.",
+          "Bảo vệ thiên địch, dùng bẫy, vệ sinh tàn dư, luân canh và biện pháp sinh học trước khi dùng thuốc hóa học."
+        ]
+      },
+      {
+        "title": "Khi dùng thuốc",
+        "items": [
+          "Chọn thuốc trong danh mục được phép, đúng đối tượng cây trồng và dịch hại trên nhãn.",
+          "Không tự phối trộn nhiều thuốc nếu không có hướng dẫn kỹ thuật.",
+          "Mang bảo hộ, pha đúng liều, phun đúng thời điểm và tuân thủ thời gian cách ly."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trồng trọt",
+      "Cục Trồng trọt và Bảo vệ thực vật - IPM",
+      "FAO - Integrated Pest Management principles"
+    ]
+  },
+  {
+    "id": "soil_water_nutrition",
+    "title": "Đất, nước và dinh dưỡng",
+    "summary": "Đất khỏe, nước tưới an toàn và bón phân theo nhu cầu cây giúp tăng sức chống chịu.",
+    "sections": [
+      {
+        "title": "Quản lý đất và nước",
+        "items": [
+          "Chọn khu sản xuất thoát nước, giảm nguy cơ ô nhiễm hóa học và sinh học.",
+          "Tưới gốc hoặc nhỏ giọt giúp tiết kiệm nước và giảm bệnh lá so với tưới phun trong nhiều cây trồng.",
+          "Tăng hữu cơ hoai mục, che phủ hoặc luân canh để cải thiện cấu trúc đất."
+        ]
+      },
+      {
+        "title": "Bón phân an toàn",
+        "items": [
+          "Bón theo giai đoạn sinh trưởng, không lạm dụng đạm vì làm tán rậm và dễ phát sinh bệnh.",
+          "Không dùng phân chuồng tươi trực tiếp cho cây ngắn ngày hoặc phần ăn được gần mặt đất."
+        ]
+      }
+    ],
+    "sources": [
+      "TCVN 11892-1:2017 VietGAP trồng trọt",
+      "Cục Trồng trọt và Bảo vệ thực vật - IPM",
+      "FAO - Integrated Pest Management principles"
+    ]
+  },
+  {
+    "id": "photo_for_ai",
+    "title": "Chụp ảnh lá phù hợp cho AI",
+    "summary": "Ảnh rõ, đủ sáng và tập trung vào triệu chứng giúp model giảm nhầm lẫn giữa các nhãn gần nhau.",
+    "sections": [
+      {
+        "title": "Nên chụp",
+        "items": [
+          "Chụp lá chiếm phần lớn khung hình, rõ nét, tránh bóng đổ mạnh và nền quá rối.",
+          "Chụp cả mặt trên, mặt dưới lá và thêm ảnh toàn cây nếu triệu chứng lan rộng.",
+          "Nên chụp nhiều lá điển hình thay vì chỉ một điểm bệnh quá nhỏ."
+        ]
+      },
+      {
+        "title": "Nên tránh",
+        "items": [
+          "Tránh ảnh quá xa, mờ, ngược sáng, lá bị che khuất hoặc bị crop mất vùng triệu chứng.",
+          "Không dùng ảnh đã chỉnh màu quá mạnh vì có thể làm sai lệch triệu chứng."
+        ]
+      }
+    ],
+    "sources": [
+      "Hướng dẫn nội bộ dự án",
+      "Nguyên tắc chẩn đoán hình ảnh bệnh cây trồng"
+    ]
+  }
+]

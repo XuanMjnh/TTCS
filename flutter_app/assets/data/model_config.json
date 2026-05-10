@@ -1,0 +1,18 @@
+{
+  "appContractVersion": "1.0.0",
+  "disclaimer": "Kết quả AI chỉ mang tính tham khảo. Nên kiểm tra thực tế cây trồng hoặc hỏi cán bộ nông nghiệp khi bệnh nặng, lan nhanh hoặc ảnh hưởng năng suất.",
+  "defaultMessages": {
+    "uncertain": "Kết quả chưa đủ chắc chắn. Vui lòng chụp lại ảnh lá rõ hơn, đủ sáng và tập trung vào vùng nghi bị bệnh.",
+    "low_quality": "Ảnh chưa đủ chất lượng để phân tích. Hãy chụp lá rõ hơn, đủ sáng, không quá xa và tránh nền quá rối.",
+    "crop_mismatch": "Loại cây bạn chọn không khớp với kết quả AI. Vui lòng kiểm tra lại ảnh hoặc chọn đúng loại cây."
+  },
+  "allowedStatuses": [
+    "confident",
+    "healthy",
+    "uncertain",
+    "unknown",
+    "crop_mismatch",
+    "low_quality",
+    "error"
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "crop": "apple",
+    "label": "apple__healthy",
+    "sourceImage": "ai_model/dataset/train/apple__healthy/263.jpg",
+    "asset": "assets/images/crops/apple.png",
+    "selectionScore": 2331.743
+  },
+  {
+    "crop": "apricot",
+    "label": "apricot__healthy",
+    "sourceImage": "ai_model/dataset/train/apricot__healthy/367.jpg",
+    "asset": "assets/images/crops/apricot.png",
+    "selectionScore": 2267.468
+  },
+  {
+    "crop": "bean",
+    "label": "bean__healthy",
+    "sourceImage": "ai_model/dataset/train/bean__healthy/283.jpg",
+    "asset": "assets/images/crops/bean.png",
+    "selectionScore": 2683.831
+  },
+  {
+    "crop": "cherry",
+    "label": "cherry__healthy",
+    "sourceImage": "ai_model/dataset/train/cherry__healthy/179.jpg",
+    "asset": "assets/images/crops/cherry.png",
+    "selectionScore": 3843.564
+  },
+  {
+    "crop": "fig",
+    "label": "fig__healthy",
+    "sourceImage": "ai_model/dataset/train/fig__healthy/351.jpg",
+    "asset": "assets/images/crops/fig.png",
+    "selectionScore": 4378.646
+  },
+  {
+    "crop": "grape",
+    "label": "grape__healthy",
+    "sourceImage": "ai_model/dataset/train/grape__healthy/1042.jpg",
+    "asset": "assets/images/crops/grape.png",
+    "selectionScore": 2546.42
+  },
+  {
+    "crop": "loquat",
+    "label": "loquat__healthy",
+    "sourceImage": "ai_model/dataset/train/loquat__healthy/261.jpg",
+    "asset": "assets/images/crops/loquat.png",
+    "selectionScore": 4846.336
+  },
+  {
+    "crop": "maize",
+    "label": "maize__healthy",
+    "sourceImage": "ai_model/dataset/train/maize__healthy/227.jpg",
+    "asset": "assets/images/crops/maize.png",
+    "selectionScore": 2274.783
+  },
+  {
+    "crop": "pear",
+    "label": "pear__healthy",
+    "sourceImage": "ai_model/dataset/train/pear__healthy/3.jpg",
+    "asset": "assets/images/crops/pear.png",
+    "selectionScore": 1879.258
+  },
+  {
+    "crop": "persimmon",
+    "label": "persimmon__brown_spot",
+    "sourceImage": "ai_model/dataset/train/persimmon__brown_spot/194.jpg",
+    "asset": "assets/images/crops/persimmon.png",
+    "selectionScore": 2741.666
+  },
+  {
+    "crop": "tomato",
+    "label": "tomato__healthy",
+    "sourceImage": "ai_model/dataset/train/tomato__healthy/tomato_090.jpg",
+    "asset": "assets/images/crops/tomato.png",
+    "selectionScore": 2476.388
+  },
+  {
+    "crop": "walnut",
+    "label": "walnut__healthy",
+    "sourceImage": "ai_model/dataset/train/walnut__healthy/363.jpeg",
+    "asset": "assets/images/crops/walnut.png",
+    "selectionScore": 2216.597
+  }
+]

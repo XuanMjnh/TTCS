@@ -1,0 +1,17 @@
+{
+  "quantization": "float32",
+  "inputShape": [
+    1,
+    224,
+    224,
+    3
+  ],
+  "inputDtype": "<class 'numpy.float32'>",
+  "outputShape": [
+    1,
+    52
+  ],
+  "outputDtype": "<class 'numpy.float32'>",
+  "numLabels": 52,
+  "outputMatchesLabels": true
+}

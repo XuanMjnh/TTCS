@@ -1,0 +1,327 @@
+{
+  "apple__black_spot": {
+    "precision": 0.8947368421052632,
+    "recall": 1.0,
+    "f1-score": 0.9444444444444444,
+    "support": 51.0
+  },
+  "apple__brown_spot": {
+    "precision": 0.9694656488549618,
+    "recall": 0.9548872180451128,
+    "f1-score": 0.9621212121212122,
+    "support": 133.0
+  },
+  "apple__healthy": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 103.0
+  },
+  "apricot__healthy": {
+    "precision": 1.0,
+    "recall": 0.9878048780487805,
+    "f1-score": 0.9938650306748467,
+    "support": 82.0
+  },
+  "apricot__leaf_blight": {
+    "precision": 0.9148936170212766,
+    "recall": 0.9555555555555556,
+    "f1-score": 0.9347826086956522,
+    "support": 45.0
+  },
+  "apricot__shot_hole": {
+    "precision": 0.9622641509433962,
+    "recall": 0.9807692307692307,
+    "f1-score": 0.9714285714285714,
+    "support": 104.0
+  },
+  "bean__fungal_leaf_disease": {
+    "precision": 1.0,
+    "recall": 0.9690721649484536,
+    "f1-score": 0.9842931937172775,
+    "support": 97.0
+  },
+  "bean__healthy": {
+    "precision": 0.9805825242718447,
+    "recall": 0.9017857142857143,
+    "f1-score": 0.9395348837209302,
+    "support": 112.0
+  },
+  "bean__rust": {
+    "precision": 0.9242424242424242,
+    "recall": 0.9838709677419355,
+    "f1-score": 0.953125,
+    "support": 62.0
+  },
+  "bean__shot_hole": {
+    "precision": 0.8305084745762712,
+    "recall": 1.0,
+    "f1-score": 0.9074074074074074,
+    "support": 49.0
+  },
+  "cherry__brown_spot": {
+    "precision": 0.9727272727272728,
+    "recall": 0.8842975206611571,
+    "f1-score": 0.9264069264069265,
+    "support": 121.0
+  },
+  "cherry__healthy": {
+    "precision": 0.9117647058823529,
+    "recall": 0.9841269841269841,
+    "f1-score": 0.9465648854961832,
+    "support": 63.0
+  },
+  "cherry__leaf_scorch": {
+    "precision": 0.9925925925925926,
+    "recall": 0.950354609929078,
+    "f1-score": 0.9710144927536232,
+    "support": 141.0
+  },
+  "cherry__purple_leaf_spot": {
+    "precision": 1.0,
+    "recall": 0.9583333333333334,
+    "f1-score": 0.9787234042553191,
+    "support": 120.0
+  },
+  "cherry__shot_hole": {
+    "precision": 0.9322033898305084,
+    "recall": 1.0,
+    "f1-score": 0.9649122807017544,
+    "support": 55.0
+  },
+  "fig__brown_spot": {
+    "precision": 0.9814814814814815,
+    "recall": 0.9814814814814815,
+    "f1-score": 0.9814814814814815,
+    "support": 54.0
+  },
+  "fig__healthy": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 75.0
+  },
+  "fig__leaf_blight": {
+    "precision": 0.8921568627450981,
+    "recall": 0.9479166666666666,
+    "f1-score": 0.9191919191919192,
+    "support": 96.0
+  },
+  "fig__rust": {
+    "precision": 0.967741935483871,
+    "recall": 0.9523809523809523,
+    "f1-score": 0.96,
+    "support": 63.0
+  },
+  "grape__anthracnose": {
+    "precision": 0.8166666666666667,
+    "recall": 0.784,
+    "f1-score": 0.8,
+    "support": 125.0
+  },
+  "grape__brown_spot": {
+    "precision": 1.0,
+    "recall": 0.9625,
+    "f1-score": 0.9808917197452229,
+    "support": 80.0
+  },
+  "grape__downy_mildew": {
+    "precision": 0.8488372093023255,
+    "recall": 0.9358974358974359,
+    "f1-score": 0.8902439024390244,
+    "support": 78.0
+  },
+  "grape__healthy": {
+    "precision": 0.9020618556701031,
+    "recall": 0.9408602150537635,
+    "f1-score": 0.9210526315789473,
+    "support": 186.0
+  },
+  "grape__mites": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 63.0
+  },
+  "grape__powdery_mildew": {
+    "precision": 0.9370629370629371,
+    "recall": 0.8874172185430463,
+    "f1-score": 0.9115646258503401,
+    "support": 151.0
+  },
+  "grape__shot_hole": {
+    "precision": 0.9813084112149533,
+    "recall": 0.9813084112149533,
+    "f1-score": 0.9813084112149533,
+    "support": 107.0
+  },
+  "loquat__healthy": {
+    "precision": 0.8441558441558441,
+    "recall": 1.0,
+    "f1-score": 0.9154929577464789,
+    "support": 65.0
+  },
+  "loquat__leaf_spot": {
+    "precision": 0.978021978021978,
+    "recall": 0.898989898989899,
+    "f1-score": 0.9368421052631579,
+    "support": 99.0
+  },
+  "maize__fungal_leaf": {
+    "precision": 1.0,
+    "recall": 0.9523809523809523,
+    "f1-score": 0.975609756097561,
+    "support": 42.0
+  },
+  "maize__gray_leaf_spot": {
+    "precision": 0.9666666666666667,
+    "recall": 0.8787878787878788,
+    "f1-score": 0.9206349206349206,
+    "support": 66.0
+  },
+  "maize__healthy": {
+    "precision": 0.9861111111111112,
+    "recall": 1.0,
+    "f1-score": 0.993006993006993,
+    "support": 71.0
+  },
+  "maize__holcus_leaf_spot": {
+    "precision": 0.8852459016393442,
+    "recall": 1.0,
+    "f1-score": 0.9391304347826087,
+    "support": 54.0
+  },
+  "pear__black_spot": {
+    "precision": 1.0,
+    "recall": 0.8407079646017699,
+    "f1-score": 0.9134615384615384,
+    "support": 113.0
+  },
+  "pear__fire_blight": {
+    "precision": 0.96,
+    "recall": 1.0,
+    "f1-score": 0.9795918367346939,
+    "support": 48.0
+  },
+  "pear__healthy": {
+    "precision": 0.9411764705882353,
+    "recall": 1.0,
+    "f1-score": 0.9696969696969697,
+    "support": 96.0
+  },
+  "persimmon__brown_spot": {
+    "precision": 0.9540229885057471,
+    "recall": 1.0,
+    "f1-score": 0.9764705882352941,
+    "support": 83.0
+  },
+  "tomato__bacterial_spot": {
+    "precision": 0.8428571428571429,
+    "recall": 0.885,
+    "f1-score": 0.8634146341463415,
+    "support": 200.0
+  },
+  "tomato__early_blight": {
+    "precision": 0.9565217391304348,
+    "recall": 0.77,
+    "f1-score": 0.853185595567867,
+    "support": 200.0
+  },
+  "tomato__fusarium_wilt": {
+    "precision": 0.88,
+    "recall": 0.9777777777777777,
+    "f1-score": 0.9263157894736842,
+    "support": 45.0
+  },
+  "tomato__healthy": {
+    "precision": 0.749003984063745,
+    "recall": 0.94,
+    "f1-score": 0.8337028824833703,
+    "support": 200.0
+  },
+  "tomato__late_blight": {
+    "precision": 0.9276315789473685,
+    "recall": 0.9591836734693877,
+    "f1-score": 0.9431438127090301,
+    "support": 147.0
+  },
+  "tomato__leaf_curl": {
+    "precision": 0.9848484848484849,
+    "recall": 0.9420289855072463,
+    "f1-score": 0.9629629629629629,
+    "support": 207.0
+  },
+  "tomato__leaf_miner": {
+    "precision": 0.930379746835443,
+    "recall": 0.735,
+    "f1-score": 0.8212290502793296,
+    "support": 200.0
+  },
+  "tomato__leaf_mold": {
+    "precision": 0.8905472636815921,
+    "recall": 0.895,
+    "f1-score": 0.8927680798004988,
+    "support": 200.0
+  },
+  "tomato__septoria_leaf_spot": {
+    "precision": 0.9867549668874173,
+    "recall": 0.8713450292397661,
+    "f1-score": 0.9254658385093167,
+    "support": 171.0
+  },
+  "tomato__spider_mites": {
+    "precision": 0.782051282051282,
+    "recall": 0.953125,
+    "f1-score": 0.8591549295774648,
+    "support": 64.0
+  },
+  "tomato__verticillium_wilt": {
+    "precision": 0.9464285714285714,
+    "recall": 1.0,
+    "f1-score": 0.9724770642201835,
+    "support": 53.0
+  },
+  "walnut__anthracnose": {
+    "precision": 0.9529411764705882,
+    "recall": 1.0,
+    "f1-score": 0.9759036144578314,
+    "support": 81.0
+  },
+  "walnut__blotch": {
+    "precision": 0.8895027624309392,
+    "recall": 0.9470588235294117,
+    "f1-score": 0.9173789173789174,
+    "support": 170.0
+  },
+  "walnut__healthy": {
+    "precision": 0.8712871287128713,
+    "recall": 0.9887640449438202,
+    "f1-score": 0.9263157894736842,
+    "support": 89.0
+  },
+  "walnut__leaf_gall_mite": {
+    "precision": 0.8421052631578947,
+    "recall": 0.9795918367346939,
+    "f1-score": 0.9056603773584906,
+    "support": 49.0
+  },
+  "walnut__shot_hole": {
+    "precision": 0.9223300970873787,
+    "recall": 0.8189655172413793,
+    "f1-score": 0.867579908675799,
+    "support": 116.0
+  },
+  "accuracy": 0.9259120673526661,
+  "macro avg": {
+    "precision": 0.932382522152994,
+    "recall": 0.9445832296516848,
+    "f1-score": 0.9363645457896351,
+    "support": 5345.0
+  },
+  "weighted avg": {
+    "precision": 0.9303946355457312,
+    "recall": 0.9259120673526661,
+    "f1-score": 0.925740913843131,
+    "support": 5345.0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049518993331",
+    "project_id": "plantai-4172d",
+    "storage_bucket": "plantai-4172d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049518993331:android:694b54e50a28778dea65c6",
+        "android_client_info": {
+          "package_name": "com.example.plant_disease_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmcxnYjtsC758irNeRql9bwSCvdxuQ9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

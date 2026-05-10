@@ -1,0 +1,67 @@
+[
+  {
+    "cropKey": "auto",
+    "cropNameVi": "Tự động",
+    "isAuto": true
+  },
+  {
+    "cropKey": "apple",
+    "cropNameVi": "Táo",
+    "isAuto": false
+  },
+  {
+    "cropKey": "apricot",
+    "cropNameVi": "Mơ",
+    "isAuto": false
+  },
+  {
+    "cropKey": "bean",
+    "cropNameVi": "Đậu",
+    "isAuto": false
+  },
+  {
+    "cropKey": "cherry",
+    "cropNameVi": "Anh đào",
+    "isAuto": false
+  },
+  {
+    "cropKey": "fig",
+    "cropNameVi": "Sung",
+    "isAuto": false
+  },
+  {
+    "cropKey": "grape",
+    "cropNameVi": "Nho",
+    "isAuto": false
+  },
+  {
+    "cropKey": "loquat",
+    "cropNameVi": "Sơn trà",
+    "isAuto": false
+  },
+  {
+    "cropKey": "maize",
+    "cropNameVi": "Ngô",
+    "isAuto": false
+  },
+  {
+    "cropKey": "pear",
+    "cropNameVi": "Lê",
+    "isAuto": false
+  },
+  {
+    "cropKey": "persimmon",
+    "cropNameVi": "Hồng",
+    "isAuto": false
+  },
+  {
+    "cropKey": "tomato",
+    "cropNameVi": "Cà chua",
+    "isAuto": false
+  },
+  {
+    "cropKey": "walnut",
+    "cropNameVi": "Óc chó",
+    "isAuto": false
+  }
+]

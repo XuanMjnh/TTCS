@@ -1,0 +1,8 @@
+{
+  "readyForProduction": false,
+  "status": "MODEL_NOT_READY_FOR_PRODUCTION",
+  "errors": [
+    "disease recall < 0.75: tomato__leaf_miner"
+  ],
+  "warnings": []
+}
