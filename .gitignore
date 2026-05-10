@@ -6,10 +6,10 @@ venv/
 .env
 .ipynb_checkpoints/
 ai_model/dataset/raw/**
-ai_model/dataset/train/**/*.jpg
-ai_model/dataset/val/**/*.jpg
-ai_model/dataset/test/**/*.jpg
-ai_model/dataset/external_test/**/*.jpg
+ai_model/dataset/train/**
+ai_model/dataset/val/**
+ai_model/dataset/test/**
+ai_model/dataset/external_test/**
 
 # Flutter/Dart
 *.class
